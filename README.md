@@ -7,10 +7,13 @@ The primary objective of this project is to leverage machine learning techniques
 ## Dataset
 
 The dataset is obtained from Kaggle [Corporate Credit Rating](https://www.kaggle.com/datasets/agewerc/corporate-credit-rating/data).
-This dataset comprises 2029 credit ratings assigned by major agencies to prominent US firms traded on NYSE or Nasdaq. The ratings span the period from 2010 to 2016. Each entry encompasses 30 features, with 25 being financial indicators sourced from balance sheets.
+This dataset comprises 2029 credit ratings assigned by major agencies to prominent US firms traded on NYSE or Nasdaq. The ratings span the period from 2010 to 2016. Each entry encompasses 30 features, with 25 being financial indicators. 
+
+[Exploratory Data Analysis and Data Preparation](dataset-description)
 
 ## Methods
-Implemented machine learning models:
+
+The following machine learning models were implemented
 
 1. Logistic Regression
 2. KNN
