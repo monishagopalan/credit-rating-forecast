@@ -1,8 +1,11 @@
-# Machine Learning Models for Corporate Credit Rating Forecasts
+# Corporate Credit Rating Forecast using Machine Learning Methods
 
-Corporate credit ratings play a pivotal role in assessing a company's ability to meet its debt obligations. Credit rating agencies, such as Moodys, Fitch, and Standard and Poors, conduct thorough evaluations based on financial indicators extracted from balance sheets. These assessments are crucial for companies issuing bonds, providing investors with insights into a corporation's creditworthiness.
+> - **The Problem** Corpoarte credit ratings, issued by credit rating agencies like Standard and Poor's and Moody's, express the agency's opinion about the ability of a company to meet its debt obligations. Each agency applies its own methodology to measure creditworthiness and this assessment is an expensive and complicated process. Usually, the agencies take time to provide new ratings and update older ones. This causes delays in decision-making process for investors who use these ratings to assess their credit risk. 
+> - **Solution** One solution to address delays would be to use the historical financial information of a company to build a predictive quantitative model capable of forecasting the credit rating that a company will receive. I employed machine learning techniques, creating classification models that quickly forecast credit ratings. 
+> - **Applications** The insights gained can aid financial analysts, investors, and companies in making more informed and quick decisions related to credit risk. The classification methods used here can also be used to forecast other ratings like ESG Ratings.
+> - **Skills** Explored classification methods like XGBoost, RandomForest and techniques to address imbalance in datasets.
+[SMOTE Analysis]({% post_url 2023-12-26-smote %}) Also delved into Financial Ratios gaining knowledge on understanding a company's fiscal strength.
 
-The primary objective of this project is to leverage machine learning techniques to build predictive models capable of forecasting the credit rating that a company will receive. The insights gained can aid financial analysts, investors, and companies in making more informed decisions related to credit risk.
 
 ## Dataset
 
