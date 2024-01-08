@@ -41,3 +41,5 @@ A comparative study of forecasting corporate credit ratings using neural network
 Volume 54, 2020_, https://doi.org/10.1016/j.najef.2020.101251.
 
 2. https://www.kaggle.com/datasets/agewerc/corporate-credit-rating/
+
+3. [S&P Global: Guide to Credit Rating Essentials](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwje_Nn6i72DAxWN8gIHHbgjDfAQFnoECBcQAQ&url=https%3A%2F%2Fwww.spglobal.com%2Fratings%2F_division-assets%2Fpdfs%2Fguide_to_credit_rating_essentials_digital.pdf&usg=AOvVaw1eCCN2ZJXYlPuBycn7-Rmi&opi=89978449)
